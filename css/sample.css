@@ -1,0 +1,122 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin: 30px 0px;
+}
+
+body{
+      -webkit-font-smoothing: antialiased;
+    }
+
+    section{
+      margin:0px;
+      padding: 0px;
+    }
+
+    .card{
+        border:1px solid rgba(0,0,0,0.2);
+        border-radius:0px;
+        box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);
+    }
+
+    .card:hover{
+        -webkit-box-shadow: 0 3px 3px 0 rgba(0,0,0,0.14), 0 1px 7px 0 rgba(0,0,0,0.12), 0 3px 1px -1px rgba(0,0,0,0.2);
+        box-shadow: 0 3px 3px 0 rgba(0,0,0,0.14), 0 1px 7px 0 rgba(0,0,0,0.12), 0 3px 1px -1px rgba(0,0,0,0.2);
+    }
+
+    nav, footer{
+      -webkit-box-shadow: 0 3px 3px 0 rgba(0,0,0,0.14), 0 1px 7px 0 rgba(0,0,0,0.12), 0 3px 1px -1px rgba(0,0,0,0.2);
+      box-shadow: 0 3px 3px 0 rgba(0,0,0,0.14), 0 1px 7px 0 rgba(0,0,0,0.12), 0 3px 1px -1px rgba(0,0,0,0.2);
+      /*box-shadow: 0 10px 10px -10px rgba(0, 0, 0, 0.5);*/
+    }
+
+    .btn-group-lg>.btn,.btn, .btn-lg {
+    -webkit-box-shadow: 0 3px 3px 0 rgba(0,0,0,0.14), 0 1px 7px 0 rgba(0,0,0,0.12), 0 3px 1px -1px rgba(0,0,0,0.2);
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,0.14), 0 1px 7px 0 rgba(0,0,0,0.12), 0 3px 1px -1px rgba(0,0,0,0.2);
+   }
+
+    ::-webkit-scrollbar {
+        width: 3px;
+    }
+
+    /* Track */
+    ::-webkit-scrollbar-track {
+        background: #f1f1f1; 
+    }
+     
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+        background: #007bff; 
+    }
+
+    /* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+        background: #0069d9; 
+    }
+
+    .back-to-top {
+      cursor: pointer;
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      display:none;
+    }
+
+    .jumbotron{
+      margin: 0px;
+      background-color: #ffffff;
+      padding: 0px 50px;
+    }
+
+    h1{
+      padding-top: 15px;
+      padding-left: 15px;
+      padding-right: 15px;
+      padding-bottom: 25px;
+      margin: 0px;
+      color: #dc3545;
+    }
+
+    h2{
+      color: #dc3545;
+    }
+
+    .bg-dark{
+      background-color:#007aff!important; 
+
+    }
+
+    .close-button{
+      float: right;
+    }
+
+
+    .img-thumbnail{
+      border: 0px;
+    }
+
+    /*#007aff!important*/
